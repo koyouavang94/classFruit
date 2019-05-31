@@ -1,0 +1,2 @@
+# classFruit
+class is fruit
